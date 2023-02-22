@@ -10,5 +10,5 @@ The odds of randomly guessing a perfect bracket is 1 in ~9 quintillion.
 ## Results
 ## Timeline
 # References
-https://ieeexplore.ieee.org/document/7176206
+https://ieeexplore.ieee.org/document/7176206 \n
 https://onlinelibrary.wiley.com/doi/10.1002/mde.3814?af=R
