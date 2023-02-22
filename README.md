@@ -9,3 +9,5 @@ Every year, the NCAA has their Championship Tournament that consists of 64 teams
 ## Results
 ## Timeline
 # References
+https://onlinelibrary.wiley.com/doi/10.1002/mde.3814?af=R
+https://ieeexplore.ieee.org/document/7176206
